@@ -19,7 +19,7 @@ jieba==0.39
 kombu==3.0.37
 mutagen==1.42.0
 pefile==2018.8.8
-Pillow==5.3.0
+Pillow==6.2.0
 PyMySQL==0.9.3
 python-ptrace==0.9.3
 pytz==2018.7
